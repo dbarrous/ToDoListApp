@@ -1,0 +1,40 @@
+body{
+background-color: #0074D9;
+}
+
+.container{
+  position: relative;
+  top: 2rem;
+  background-color: #7FDBFF;
+
+
+}
+
+#title{
+  
+  text-align: center;
+  font-size: 2.5rem;
+  font-family: 'Open Sans',sans-serif
+}
+
+#task-title{
+ color:#001f3f;
+ text-align: center;
+ font-size: 1.5rem;
+ font-weight: bolder;
+ font-family: 'Open Sans',sans-serif
+
+}
+
+.material-icons{
+  cursor: pointer;
+  color: blue;
+}
+
+.material-icons:hover{
+  color: red;
+}
+
+#reset{
+  color:white;
+}
